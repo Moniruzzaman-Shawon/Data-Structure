@@ -320,3 +320,14 @@ A Heap is a complete binary tree data structure that satisfies the heap property
 
 ## Complete Binary Tree
 A complete binary tree is a binary tree in which every level, except possibly the last, is completely filled, and all nodes are as far left as possible.
+
+
+---
+
+## Happy Coding! 🚀
+
+Keep learning, keep building, and keep pushing your limits. The world of programming is vast and full of opportunities. Enjoy the journey, and remember: **Every bug you fix makes you a better developer!**
+
+---
+
+© 2025 Your Moniruzzaman Shawon. All rights reserved.
